@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869536082400",
+    "project_id": "wastereports-c60b8",
+    "storage_bucket": "wastereports-c60b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869536082400:android:fed54f44329bc77e776385",
+        "android_client_info": {
+          "package_name": "com.example.waste_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBWEcVgB2MAnDcpyO2h45Jjxkn0e2Zm44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
